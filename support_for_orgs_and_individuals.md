@@ -2,8 +2,8 @@
 
 We do this through:
 
-* [De-risking projects](de-risking-projects)
-* [Helping you support projects](supporting-projects)
+* [De-risking projects](./de-risking-projects.md)
+* [Helping you support projects](./supporting-projects.md)
 * [JavaScriptLandia]()
 * [Certification/Training]()
 * [Co-Marketing Opportunities]()
