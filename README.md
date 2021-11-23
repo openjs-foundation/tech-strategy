@@ -28,7 +28,7 @@ Our strategy is to meet those goals by:
 
 We do this through:
 
-* [Support for maintainers]()
-* [Support for projects]()
-* [Support for individuals and organizations using JavaScript](./support_for_orgs_and_individuals.md)
-* [Support for Ecosystem]()
+* [Support for maintainers](./support-for-maintainers.md)
+* [Support for projects](./support-for-projects/README.md)
+* [Support for individuals and organizations using JavaScript](./support_for_individuals_and_orgs/README.md)
+* [Support for Ecosystem](./support-for-ecossytem/README.md)
