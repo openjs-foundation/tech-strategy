@@ -18,9 +18,9 @@ Our strategy is to meet those goals by:
   JavaScript ecosystem.
 * Helping projects build infrastructure and process so that they outlast the 
   contributions of any one individual or company.
-* Help projects focus on their high impact work versus
+* Helping projects focus on their high impact work versus
   administrative/operational tasks.
-* Help organizations understand the projects they depend on, provide channels 
+* Helping organizations understand the projects they depend on, provide channels 
   for them to easily support those projects and to realize value from those
   contributions.
 * Document best practices that reduce risk for contributors and consumers
