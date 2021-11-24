@@ -30,5 +30,5 @@ We do this through:
 
 * [Support for maintainers](./support-for-maintainers.md)
 * [Support for projects](./support-for-projects/README.md)
-* [Support for individuals and organizations using JavaScript](./support_for_individuals_and_orgs/README.md)
+* [Support for individuals and organizations using JavaScript](./support-for-individuals-and-orgs/README.md)
 * [Support for Ecosystem](./support-for-ecossytem/README.md)
