@@ -13,7 +13,7 @@ The goal of the OpenJS Foundations is to:
 * Help organizations manage their risk by supporting the projects they depend on.
 
 Our strategy is to meet those goals by:
-* Provide neutral space and resources where people can come together
+* Providing a neutral space and resources where people can come together
   to collaborate on what is important to the success and growth of the
   JavaScript ecosystem.
 * Helping projects build infrastructure and process so that they outlast the 
