@@ -16,7 +16,8 @@ have these attributes:
 * Good Licences
 * Healthy infrastructure
 * Level of adoption
-* Respect for SemVer
+* Transparent and careful change management
+   * For example, respect for SemVer
 * Manage secrets/infrastructure etc. so that any one individual moving on 
 * Minimize their depdence on key individuals (have succession plans in placee)
 
