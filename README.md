@@ -25,8 +25,10 @@ Our strategy is to meet those goals by:
 * Helping organizations understand the projects they depend on, provide channels 
   for them to easily support those projects and to realize value from those
   contributions.
+* Encourage projects that organizations depend on to join the OpenJS Foundation
+  and adopt open governance.
 * Document best practices that reduce risk for contributors and consumers
-  and help projects implement them efficiently.
+  and help member projects implement them efficiently.
 
 We do this through:
 
