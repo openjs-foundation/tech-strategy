@@ -8,8 +8,10 @@ of that dependency.
 The goal of the OpenJS Foundations is to:
 * Foster a strong and vibrant JavaScript ecosystem so that it remains a good
   technology choice now and into the future.
-* Support Open Source JavaScript projects that want to grow beyond "me" to "we" and
-  plan for a succession of maintainers over their lifespan. 
+* Support open source JavaScript projects that are impactful and are willing to
+  adopt governance compatible with the OpenJS Foundation [goals](https://openjsf.org/about/).
+* Support open source JavaScript projects that want to operate as an organization instead
+  of individuals and plan for a succession of maintainers over the project's lifespan. 
 * Help organizations manage their risk by supporting the projects they depend on.
 
 Our strategy is to meet those goals by:
