@@ -1,4 +1,4 @@
-# Technical Strategy
+# Technical Strategy (WORK IN PROGRESS !)
 
 Use of Open Source is ubiquitous within all sizes of organizations.
 As with any component that an organization depends
