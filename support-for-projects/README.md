@@ -4,9 +4,9 @@ The OpenJS Foundation provides support to projects as follows:
 
 * Facilitating communication between the larger ecosystem and
   projects. This includes:
-  * Javacript Newsletters and Periodicals 
+  * Bridging between Javascript Newsletters and Periodicals 
 
-## Communication Javacript Newsletters and Periodicals
+## Bridging between projects and Javacript Newsletters and Periodicals
 
 There are a number of great newsletters and periodicals. Getting articles
 into these newsletters and periodicals is one way that a project can share
